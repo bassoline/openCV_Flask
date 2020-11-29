@@ -1,1 +1,1 @@
-"# openCV_Flask" 
+OpenCV course 2 - Flask based application
